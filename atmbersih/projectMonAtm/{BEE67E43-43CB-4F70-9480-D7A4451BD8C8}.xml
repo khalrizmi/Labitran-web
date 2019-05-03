@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<configuration date="2018/11/20" author="e.World Technology Ltd.">
+  <project id="{BEE67E43-43CB-4F70-9480-D7A4451BD8C8}" file="C:\Users\prambudi\Documents\PHPMaker\Projects\projectMonAtm.pmp" name="projectMonAtm" product="PHPMaker" version="14.0" datetime="2018/11/20 17:49:00" languagefolder="phplang" userlevel="-2,&quot;Anonymous&quot;,0;">
+    <table id="atm" name="atm" caption="LOKASI ATM" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="bank" name="bank" caption="BANK" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="jabatan" name="jabatan" caption="JABATAN" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="jalur" name="jalur" caption="JALUR" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="kabupaten" name="kabupaten" caption="KABUPATEN/KOTA" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="karyawan" name="karyawan" caption="KARYAWAN" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="kunjungan" name="kunjungan" caption="KUNJUNGAN" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="provinsi" name="provinsi" caption="provinsi" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="user" name="user" caption="USER" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="area" name="area" caption="AREA" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="jalur_detil" name="jalur_detil" caption="" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="kota" name="kota" caption="KOTA" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="lokasi_kerja" name="lokasi_kerja" caption="LOKASI KERJA" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="jalur_detil_copy" name="jalur_detil_copy" caption="jalur detil copy" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="v_atm" name="v_atm" caption="v atm" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="kerusakan" name="kerusakan" caption="JENIS KERUSAKAN" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="temuan_kerusakan" name="temuan_kerusakan" caption="TEMUAN KERUSAKAN" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="kunjungan_foto" name="kunjungan_foto" caption="FOTO" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="temuan_kerusakan_foto" name="temuan_kerusakan_foto" caption="FOTO" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="maps1_php" name="maps1.php" caption="PETA" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+  </project>
+</configuration>
